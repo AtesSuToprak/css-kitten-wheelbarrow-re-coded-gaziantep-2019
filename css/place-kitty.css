@@ -1,4 +1,4 @@
-/* Select the image with a class of kitty-1 */
+/home/hakanyildiz/css-kitten-wheelbarrow-re-coded-gaziantep-2019/images/kitty-1
 
   .kitty-1 {
   position: absolute;
@@ -7,9 +7,9 @@
   left: 129px;
 }
 
-/* Select the image with id of kitty-2 */
+/home/hakanyildiz/css-kitten-wheelbarrow-re-coded-gaziantep-2019/images/kitty-2
 
-/*__write_selector_here__*/ {
+.kitty-2{
   position: absolute;
   z-index: 2;
   top: 212px;
